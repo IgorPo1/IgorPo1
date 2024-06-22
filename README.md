@@ -5,7 +5,7 @@ Hi 👋 My name is Igor
 * 🖥️  See my portfolio at [GitHub](http://github.com/IgorPo1?tab=repositories)
 * ✉️  You can contact me at [polidvaigor5@gmail.com](mailto:polidvaigor5@gmail.com)
 * 🚀  I'm currently working on [Web Page Phishing Project](http://github.com/IgorPo1/Web-Page-Phishing-Project)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm part of Everyone can code Chicago ML
 
 ### Skills
 
