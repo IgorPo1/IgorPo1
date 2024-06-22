@@ -2,11 +2,12 @@ Hi 👋 My name is Igor
 =====================
 
 * 🌍  I'm based in Chicago
-* 🌱 I’m currently learning Core Machine Learning Concepts
+* 🌱  I’m currently learning Core Machine Learning Concepts
 * 🖥️  See my portfolio at [GitHub](http://github.com/IgorPo1?tab=repositories)
 * ✉️  You can contact me at [polidvaigor5@gmail.com](mailto:polidvaigor5@gmail.com)
 * 🚀  I'm currently working on [Web Page Phishing Project](http://github.com/IgorPo1/Web-Page-Phishing-Project)
 * 🧠  I'm part of Everyone Can Code Chicago ML, working on AI app for Appstore
+* ⚡  Fun Fact: The most life-changing book for me is Do What You Are Paul Tieger
 
 ### Skills
 
