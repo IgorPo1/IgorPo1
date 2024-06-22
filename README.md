@@ -1,7 +1,7 @@
 Hi 👋 My name is Igor
 =====================
 👩‍💻 About me
-Highly adaptable and motivated analyst with 2+ years of experience in fast-paced environments. Proven ability to learn new technologies quickly, analyze complex problems, and develop innovative solutions. Skilled in data analysis, project management, and customer service.
+A highly adaptable and motivated analyst with 2+ years of experience in fast-paced environments. Proven ability to learn new technologies quickly, analyze complex problems, and develop innovative solutions. Skilled in data analysis, project management, and customer service.
 
 * 🌍  I'm based in Chicago
 * 🌱  I’m currently learning Core Machine Learning Concepts
