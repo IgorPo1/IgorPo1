@@ -1,14 +1,15 @@
 Hi 👋 My name is Igor
 =====================
-👩‍💻 About me
+About me
 
-A highly adaptable and motivated analyst with 2+ years of experience in fast-paced environments. Proven ability to learn new technologies quickly, analyze complex problems, and develop innovative solutions. Skilled in data analysis, project management, and customer service.
+I love learning new things and sharing what I know with others. Making new friends is always a plus! I'm especially fascinated by data and research – there's something really cool about uncovering hidden patterns and using that info to make a difference.
 
 * 🌍  I'm based in Chicago
 * 🌱  I’m currently learning Core Machine Learning Concepts
 * 🖥️  See my portfolio at [GitHub](http://github.com/IgorPo1?tab=repositories)
 * ✉️  You can contact me at [polidvaigor5@gmail.com](mailto:polidvaigor5@gmail.com)
-* 🚀  I'm currently working on [Web Page Phishing Project](http://github.com/IgorPo1/Web-Page-Phishing-Project)
+* 👨‍💻 My MS Excel Projects are at: [MS-Excel-main](https://github.com/IgorPo1/Projects/tree/main/MS-Excel-main)
+* 🚀 My Tableau Projects are in progress
 * 🧠  I'm part of Everyone Can Code Chicago ML, working on AI app for Appstore
 * ⚡  Fun Fact: The most life-changing book for me is Do What You Are Paul Tieger
 
