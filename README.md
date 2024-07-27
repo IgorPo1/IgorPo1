@@ -10,8 +10,8 @@ I love learning new things and sharing what I know with others. Making new frien
 * ✉️  You can contact me at [polidvaigor5@gmail.com](mailto:polidvaigor5@gmail.com)
 * 👨‍💻 My MS Excel Projects are at: [MS-Excel-main](https://github.com/IgorPo1/Projects/tree/main/MS-Excel-main)
 * 🚀 My Tableau Projects are in progress
-* 🧠  I'm part of Everyone Can Code Chicago ML, working on AI app for Appstore
-* ⚡  Fun Fact: The most life-changing book for me is Do What You Are Paul Tieger
+* 🧠  I'm part of Everyone Can Code Chicago ML, working on an image classification app for Appstore
+* ⚡  Fun Fact: The most life-changing book for me is Do What You Are by Paul Tieger
 
 ### Skills
 
