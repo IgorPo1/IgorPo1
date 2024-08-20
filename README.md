@@ -20,6 +20,7 @@ Let's connect and see what amazing things we can achieve together! 🚀 I'm open
 * 🚀  Check out my [Tableau Public](https://public.tableau.com/app/profile/igor.polidva/vizzes) profile where I made end-to-end Sales & Customer Dashboard 
 * 🌱  I’m currently learning Stored Procedures and User-Defined Functions in SQL
 * 🧠  I am a member of Everyone Can Code Chicago ML, we have successfully developed our image classification iOS application after 2 months of dedicated effort. Here is the link to our [Presentation](https://drive.google.com/file/d/1vxh9y_CeYTO7iUCHVb-k8ygdUib_CAse/view?usp=sharing)
+* 📚  The most life-changing book for me is Do What You Are by Paul Tieger
 * ⚡  Fun Fact: I decided to try out Andrew Huberman's daily routine, and it has seamlessly become a part of my lifestyle! Here are some key elements I've adopted:
 1. Morning sunlight exposure.
 2. Strategic caffeine consumption
@@ -27,7 +28,7 @@ Let's connect and see what amazing things we can achieve together! 🚀 I'm open
 4. Deliberate stress management techniques.
 5. Optimized sleep hygiene
 These practices have profoundly impacted my energy levels, focus, and overall well-being. 
-* 📚  The most life-changing book for me is Do What You Are by Paul Tieger
+
 
 ### Skills
 
