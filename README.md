@@ -13,13 +13,13 @@ I'm always eager to explore new opportunities where I can apply my analytical sk
 
 Let's connect and see what amazing things we can achieve together! 🚀 I'm open to new adventures and can't wait to see where this journey takes us. Feel free to reach out – I'd love to chat about data, tech, or anything in between!
 
-* 🌍  I'm based in Chicago
-* 🌱  I’m currently learning Stored Procedures and User-Defined Functions in SQL
-* 🖥️  See my portfolio at [GitHub](http://github.com/IgorPo1?tab=repositories)
+
 * ✉️  You can contact me at [polidvaigor5@gmail.com](mailto:polidvaigor5@gmail.com)
-* 👨‍💻  My MS Excel Projects are at [MS-Excel-main](https://github.com/IgorPo1/Projects/tree/main/MS-Excel-main)
-* 🚀  My Tableau Projects are at [Tableau Public](https://public.tableau.com/app/profile/igor.polidva/vizzes)
-* 🧠  I am pleased to announce that, as a member of Everyone Can Code Chicago ML, we have successfully developed our image classification iOS application after 2 months of dedicated effort. Here is the link to our [Presentation](https://drive.google.com/file/d/1vxh9y_CeYTO7iUCHVb-k8ygdUib_CAse/view?usp=sharing)
+* 🖥️  Explore my [SQL & Python projects](http://github.com/IgorPo1?tab=repositories) showcasing data analysis and problem-solving skills
+* 👨‍💻  Explore my [Excel Projects](https://github.com/IgorPo1/Projects/tree/main/MS-Excel-main) showcasing data modeling and analysis techniques
+* 🚀  Check out my [Tableau Public](https://public.tableau.com/app/profile/igor.polidva/vizzes) profile where I made end-to-end Sales & Customer Dashboard 
+* 🌱  I’m currently learning Stored Procedures and User-Defined Functions in SQL
+* 🧠  I am a member of Everyone Can Code Chicago ML, we have successfully developed our image classification iOS application after 2 months of dedicated effort. Here is the link to our [Presentation](https://drive.google.com/file/d/1vxh9y_CeYTO7iUCHVb-k8ygdUib_CAse/view?usp=sharing)
 * ⚡  Fun Fact: I decided to try out Andrew Huberman's daily routine, and it has seamlessly become a part of my lifestyle! Here are some key elements I've adopted:
 1. Morning sunlight exposure.
 2. Strategic caffeine consumption
