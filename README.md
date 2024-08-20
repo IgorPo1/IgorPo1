@@ -5,6 +5,7 @@ About me
 I'm passionate about learning new things and sharing my discoveries with others. There's something incredibly exciting about uncovering hidden patterns in data and leveraging those insights to make a positive impact. 
 
 What gets me going:
+
 •Diving deep into data analysis 📊
 •Collaborating on innovative projects 🤝
 •Sharing knowledge and learning from others 🧠
