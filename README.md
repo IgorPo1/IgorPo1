@@ -1,4 +1,4 @@
-Hi 👋 My name is Igor "Aspiring Data Analyst with a Passion for Insights"
+Hi 👋 My name is Igor "Data Analyst with a Passion for Insights"
 =====================
 About me
 
